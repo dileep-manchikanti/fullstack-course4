@@ -12,8 +12,10 @@ section{
   padding-right: 3px;
 }
 .item{
+  padding-left:20px;
+  padding-right:20px;
+  padding-top: 3px;
   background-color:rgb(100,100,100);
-
 }
 h3{
   color:red;
@@ -32,3 +34,12 @@ div.container>h1{
   font-weight:1000;
   color:green;
 }
+/*#chick>a.hover{
+  makeActive("chick");
+}
+#bee>a.hover{
+  makeActive("bee");
+}
+#sush>a.hover{
+  makeActive("sush");
+}*/
